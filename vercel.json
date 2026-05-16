@@ -71,6 +71,15 @@
       ]
     },
     {
+      "source": "/inscription-transport-scolaire-74-2026-2027-2028",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        }
+      ]
+    },
+    {
       "source": "/mdph-tseh-haute-savoie",
       "headers": [
         {
