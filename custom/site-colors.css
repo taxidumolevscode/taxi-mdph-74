@@ -1,0 +1,39 @@
+h1 [class*="text-gray-"],
+h2 [class*="text-gray-"],
+h3 [class*="text-gray-"],
+span[class*="tracking"][class*="text-gray-"],
+p[class*="tracking"][class*="text-gray-"],
+.font-mono[class*="text-gray-"] {
+  color: #ffb600 !important;
+}
+
+.taxi-brand-gold {
+  color: #ffb600 !important;
+}
+
+.taxi-brand-gold-parent {
+  color: #ffb600 !important;
+  opacity: 1 !important;
+}
+
+#contact h1.opacity-20 {
+  color: #ffb600 !important;
+  opacity: 1 !important;
+}
+
+a[href^="tel:"]:hover {
+  background-color: #ffb600 !important;
+  border-color: #ffb600 !important;
+  color: #000000 !important;
+}
+
+.mdph-gold {
+  color: #ffb600 !important;
+  -webkit-text-stroke-color: #ffb600 !important;
+  text-stroke-color: #ffb600 !important;
+}
+
+p[class*="text-gray-"],
+li[class*="text-gray-"] {
+  text-shadow: none !important;
+}
