@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Taxi Enfant Handicapé 74 | Taxi Mdph 74</title>
+  <meta name="description" content="Taxi enfant handicapé 74 : transport scolaire adapté pour enfant handicapé, ULIS, TSA, TDAH, DYS, MDPH, école, Annecy, Bonneville, Cluses et Haute-Savoie.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="https://transportscolairemdph74.fr/taxi-enfant-handicape-74">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Taxi Mdph 74">
+  <meta property="og:title" content="Taxi Enfant Handicapé 74">
+  <meta property="og:description" content="Transport scolaire adapté pour enfants en situation de handicap en Haute-Savoie : taxi MDPH, taxi ULIS, taxi TSA, TDAH, DYS, école et accompagnement.">
+  <meta property="og:url" content="https://transportscolairemdph74.fr/taxi-enfant-handicape-74">
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="icon" href="/favicon-32x32.png" type="image/png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: dark;
+      --black: #050505;
+      --white: #fff;
+      --paper: #f6f5f0;
+      --muted: #a3a3a3;
+      --ink: #121212;
+      --line: rgba(255,255,255,.14);
+      --accent: #e0bd70;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Poppins, Arial, sans-serif;
+      background: var(--black);
+      color: var(--white);
+      line-height: 1.6;
+    }
+    a { color: inherit; }
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 30;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      padding: 1.15rem clamp(1rem, 4vw, 3rem);
+      border-bottom: 1px solid var(--line);
+      background: rgba(5,5,5,.86);
+      backdrop-filter: blur(14px);
+    }
+    .brand {
+      font-size: .82rem;
+      font-weight: 900;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+      text-decoration: none;
+    }
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: .85rem;
+      font-size: .74rem;
+      font-weight: 800;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+    }
+    .button {
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 2.8rem;
+      padding: .85rem 1.15rem;
+      border: 1px solid currentColor;
+      text-decoration: none;
+      font-size: .75rem;
+      font-weight: 900;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+    }
+    .button.primary {
+      background: var(--white);
+      color: var(--black);
+      border-color: var(--white);
+    }
+    .hero {
+      min-height: 90vh;
+      display: grid;
+      align-items: end;
+      padding: clamp(5rem, 10vw, 8rem) clamp(1rem, 5vw, 4rem) clamp(3.5rem, 8vw, 6rem);
+      background:
+        linear-gradient(180deg, rgba(5,5,5,.42), rgba(5,5,5,.9)),
+        url("https://taxidumole.com/wp-content/uploads/2025/10/ChatGPT_Image_16_juil._2025_13_12_45.png") center/cover;
+    }
+    .wrap {
+      max-width: 1180px;
+      width: 100%;
+      margin: 0 auto;
+    }
+    .eyebrow {
+      display: block;
+      margin-bottom: 1rem;
+      color: var(--accent);
+      font-size: .78rem;
+      font-weight: 900;
+      letter-spacing: .2em;
+      text-transform: uppercase;
+    }
+    h1 {
+      max-width: 9.5ch;
+      margin: 0;
+      font-size: clamp(3.7rem, 13vw, 10.5rem);
+      line-height: .84;
+      letter-spacing: 0;
+      text-transform: uppercase;
+      font-weight: 900;
+    }
+    .lead {
+      max-width: 760px;
+      margin: 2rem 0 0;
+      color: #e7e7e7;
+      font-size: clamp(1.08rem, 2vw, 1.45rem);
+    }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .85rem;
+      margin-top: 2rem;
+    }
+    .section {
+      padding: clamp(4rem, 8vw, 7rem) clamp(1rem, 5vw, 4rem);
+    }
+    .light {
+      background: var(--paper);
+      color: var(--ink);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: clamp(1rem, 3vw, 2rem);
+    }
+    .span-12 { grid-column: span 12; }
+    .span-7 { grid-column: span 7; }
+    .span-6 { grid-column: span 6; }
+    .span-5 { grid-column: span 5; }
+    .span-4 { grid-column: span 4; }
+    h2 {
+      margin: 0 0 1.25rem;
+      font-size: clamp(2.25rem, 6vw, 5.2rem);
+      line-height: .94;
+      letter-spacing: 0;
+      text-transform: uppercase;
+      font-weight: 900;
+    }
+    h3 {
+      margin: 0 0 .8rem;
+      font-size: clamp(1.25rem, 2.4vw, 2rem);
+      line-height: 1.05;
+      text-transform: uppercase;
+      font-weight: 900;
+    }
+    p { margin: 0 0 1rem; }
+    .muted { color: #555; }
+    .dark-muted { color: var(--muted); }
+    .card {
+      height: 100%;
+      padding: clamp(1.25rem, 3vw, 2rem);
+      border-radius: 8px;
+    }
+    .light-card {
+      background: #fff;
+      border: 1px solid rgba(0,0,0,.12);
+    }
+    .dark-card {
+      background: rgba(255,255,255,.045);
+      border: 1px solid var(--line);
+    }
+    .keyword-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .65rem;
+      margin-top: 1rem;
+    }
+    .keyword {
+      display: inline-flex;
+      align-items: center;
+      min-height: 2.35rem;
+      padding: .5rem .75rem;
+      border: 1px solid rgba(0,0,0,.16);
+      border-radius: 999px;
+      background: #fff;
+      font-size: .85rem;
+      font-weight: 700;
+    }
+    .dark-card .keyword {
+      border-color: var(--line);
+      background: rgba(255,255,255,.05);
+    }
+    .answer {
+      padding: 1.5rem;
+      border-left: 6px solid var(--accent);
+      background: rgba(224,189,112,.13);
+    }
+    .list {
+      display: grid;
+      gap: .8rem;
+      margin: 1.25rem 0 0;
+      padding: 0;
+      list-style: none;
+    }
+    .list li {
+      position: relative;
+      padding-left: 1.35rem;
+    }
+    .list li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: .65rem;
+      width: .45rem;
+      height: .45rem;
+      border-radius: 999px;
+      background: currentColor;
+    }
+    .footer {
+      padding: 2rem clamp(1rem, 5vw, 4rem);
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .86rem;
+    }
+    .footer-inner {
+      max-width: 1180px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    @media (max-width: 860px) {
+      .span-7, .span-6, .span-5, .span-4 { grid-column: span 12; }
+      .nav { align-items: flex-start; flex-direction: column; }
+      .nav-actions { width: 100%; flex-wrap: wrap; }
+      .button { width: 100%; }
+      h1 { font-size: clamp(3.1rem, 18vw, 5.6rem); }
+      .hero { min-height: 82vh; }
+    }
+  </style>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Je cherche un taxi pour enfant handicapé pour aller à l'école, qui appeler ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taxi Mdph 74 accompagne les familles pour le transport scolaire adapté d'enfants en situation de handicap en Haute-Savoie. Vous pouvez appeler le 06 80 42 30 31 pour expliquer le trajet, l'école, les horaires et les besoins de l'enfant."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quels mots-clés concernent le transport scolaire adapté ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Taxi enfant handicapé école, transport scolaire handicap 74, taxi ULIS, taxi MDPH, transport enfant autiste école, taxi scolaire Haute-Savoie, taxi TSA école, transport spécialisé enfant handicapé."
+          }
+        }
+      ]
+    }
+  </script>
+</head>
+<body>
+  <nav class="nav">
+    <a class="brand" href="/">Taxi Mdph 74</a>
+    <div class="nav-actions">
+      <a href="/inscription-transport-scolaire-74-2026-2027-2028">Inscription 74</a>
+      <a class="button primary" href="tel:+33680423031">Appeler</a>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="wrap">
+      <span class="eyebrow">Taxi enfant handicapé 74</span>
+      <h1>Taxi Enfant Handicapé Haute-Savoie</h1>
+      <p class="lead">Transport scolaire adapté pour enfants en situation de handicap en Haute-Savoie, vers l’école, les classes ULIS, les établissements spécialisés, Annecy, Bonneville, Cluses, Genève et la Vallée de l’Arve.</p>
+      <div class="actions">
+        <a class="button primary" href="tel:+33680423031">Parler du trajet</a>
+        <a class="button" href="/contact">Faire une demande</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="section light">
+      <div class="wrap grid">
+        <div class="span-5">
+          <span class="eyebrow">Recherche parent</span>
+          <h2>Ce que vous tapez vraiment sur Google</h2>
+        </div>
+        <div class="span-7">
+          <p class="muted">Quand un parent cherche une solution tard le soir, il ne pense pas toujours au vocabulaire administratif. Il cherche une réponse simple : un taxi fiable pour son enfant, un trajet vers l’école, une personne calme, ponctuelle et habituée aux besoins spécifiques.</p>
+          <div class="keyword-grid">
+            <span class="keyword">taxi enfant handicapé école</span>
+            <span class="keyword">transport scolaire handicap 74</span>
+            <span class="keyword">taxi ULIS</span>
+            <span class="keyword">taxi MDPH</span>
+            <span class="keyword">transport enfant autiste école</span>
+            <span class="keyword">taxi scolaire Haute-Savoie</span>
+            <span class="keyword">transport enfant handicapé Annecy</span>
+            <span class="keyword">taxi TSA école</span>
+            <span class="keyword">taxi pour enfant handicapé</span>
+            <span class="keyword">transport spécialisé enfant handicapé</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap grid">
+        <div class="span-12">
+          <span class="eyebrow">Transport adapté</span>
+          <h2>Un taxi scolaire pensé pour l’enfant, pas seulement pour le trajet</h2>
+        </div>
+        <article class="span-4 card dark-card">
+          <h3>École et ULIS</h3>
+          <p class="dark-muted">Taxi ULIS Haute-Savoie, taxi scolaire handicap 74, accompagnement école, horaires réguliers et trajet adapté au rythme de l’enfant.</p>
+        </article>
+        <article class="span-4 card dark-card">
+          <h3>TSA, TDAH, DYS</h3>
+          <p class="dark-muted">Transport scolaire enfant autiste Haute-Savoie, taxi TSA école, taxi TDAH, DYS, attention au calme, aux repères et à la ponctualité.</p>
+        </article>
+        <article class="span-4 card dark-card">
+          <h3>MDPH et TSEH</h3>
+          <p class="dark-muted">Taxi MDPH Haute-Savoie, transport adapté, TSEH, prise en charge selon dossier, besoin de transport et organisation validée par les services compétents.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section light">
+      <div class="wrap grid">
+        <div class="span-6">
+          <div class="answer">
+            <span class="eyebrow">Titre principal SEO</span>
+            <h2>Taxi Enfant Handicapé 74</h2>
+            <p>Ce titre est direct, humain et proche de ce que les familles recherchent : un taxi pour enfant handicapé, un transport vers l’école, une solution fiable en Haute-Savoie.</p>
+          </div>
+        </div>
+        <div class="span-6">
+          <h3>Autres recherches importantes</h3>
+          <ul class="list muted">
+            <li>Taxi Enfant Handicapé Haute-Savoie.</li>
+            <li>Transport Scolaire Handicap Haute-Savoie.</li>
+            <li>Taxi Scolaire Handicap 74.</li>
+            <li>Transport Enfant Handicapé École Haute-Savoie.</li>
+            <li>Taxi ULIS Haute-Savoie.</li>
+            <li>Taxi MDPH Haute-Savoie.</li>
+            <li>Transport Handicap École Annecy Bonneville Cluses.</li>
+            <li>Taxi Conventionné Enfant Handicapé Haute-Savoie.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap grid">
+        <div class="span-5">
+          <span class="eyebrow">Zones desservies</span>
+          <h2>Annecy, Bonneville, Cluses et Haute-Savoie</h2>
+        </div>
+        <div class="span-7">
+          <p class="dark-muted">Transport handicap école Annecy Bonneville Cluses, taxi scolaire Haute-Savoie, taxi enfant handicapé école, transport enfant handicapé Annecy : nous organisons les trajets selon les besoins des familles, l’école, les horaires, le dossier MDPH et la situation de l’enfant.</p>
+          <p class="dark-muted">Nous desservons Bonneville, Saint-Pierre-en-Faucigny, le Pays Rochois, La Roche-sur-Foron, Éteaux, Amancy, Cornier, Arenthon, La Chapelle Rambaud, Saint Sixt, Saint Laurent, la Vallée de l’Arve, Fillière, Évires, le Grand Annecy, le Genevois, le Chablais et le Pays du Mont-Blanc.</p>
+          <p class="dark-muted">Nous pouvons aussi déposer vos enfants à l’école de Genève, Annecy, Chambéry ou Lyon, avec des trajets possibles en France et en Suisse selon l’organisation du transport.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section light">
+      <div class="wrap grid">
+        <div class="span-5">
+          <span class="eyebrow">Parents</span>
+          <h2>Une demande simple, une réponse claire</h2>
+        </div>
+        <div class="span-7">
+          <p class="muted">Expliquez simplement la situation : âge de l’enfant, école, commune de départ, horaires, classe ULIS ou établissement, TSA, TDAH, DYS, IME, SESSAD, besoin MDPH ou transport adapté. Nous vous aidons à comprendre le trajet possible et les informations utiles.</p>
+          <div class="actions">
+            <a class="button primary" href="tel:+33680423031">Appeler maintenant</a>
+            <a class="button" href="https://taxidumole.com?utm_source=chatgpt.com" target="_blank" rel="noreferrer">Voir Taxi du Môle</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>© 2026 Taxi Mdph 74. Tous droits réservés.</span>
+      <span>Taxi enfant handicapé école · ULIS · MDPH · Haute-Savoie</span>
+    </div>
+  </footer>
+</body>
+</html>
