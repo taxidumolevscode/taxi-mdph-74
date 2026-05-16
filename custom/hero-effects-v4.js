@@ -10,7 +10,7 @@
     const logo = document.createElement("img");
     logo.className = "hero-brand-logo";
     logo.src = logoUrl;
-    logo.alt = "Logo mascotte Taxi du Môle";
+    logo.alt = "Logo mascotte Taxi Mdph 74";
     logo.decoding = "async";
     logo.loading = "eager";
     content.prepend(logo);
@@ -115,7 +115,7 @@
   };
 
   const colorBrandMentions = () => {
-    const brandPattern = /(Taxi du Môle|Taxi Du Môle|TAXI DU MÔLE)/g;
+    const brandPattern = /(Taxi Mdph 74|TAXI MDPH 74)/g;
     const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
       acceptNode(node) {
         if (!brandPattern.test(node.nodeValue)) {
@@ -188,9 +188,9 @@
 
   const formatHeroEyebrow = () => {
     const eyebrow = document.querySelector(".hero-eyebrow");
-    if (!eyebrow || eyebrow.textContent.trim() !== "Transport Scolaire Adapté En Haute-Savoie") return;
+    if (!eyebrow || eyebrow.textContent.trim() !== "Taxi Mdph 74") return;
 
-    splitTextElement(eyebrow, ["Transport Scolaire", "Adapté En Haute-Savoie"], "hero-eyebrow-line");
+    splitTextElement(eyebrow, ["Taxi Mdph", "74"], "hero-eyebrow-line");
   };
 
   const formatMobileSplitText = () => {
