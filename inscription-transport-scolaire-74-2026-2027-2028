@@ -142,6 +142,7 @@
       display: grid;
       grid-template-columns: repeat(12, 1fr);
       gap: clamp(1rem, 3vw, 2rem);
+      align-items: start;
     }
     .span-5 { grid-column: span 5; }
     .span-7 { grid-column: span 7; }
@@ -150,11 +151,13 @@
     .span-12 { grid-column: span 12; }
     h2 {
       margin: 0 0 1.25rem;
-      font-size: clamp(2.2rem, 6vw, 5rem);
-      line-height: .95;
+      max-width: 11.5ch;
+      font-size: clamp(2.35rem, 4.4vw, 4.35rem);
+      line-height: 1;
       letter-spacing: 0;
       text-transform: uppercase;
       font-weight: 900;
+      text-wrap: balance;
     }
     h3 {
       margin: 0 0 .85rem;
@@ -218,8 +221,10 @@
     }
     .answer {
       border-left: 6px solid var(--gold);
-      padding: 1.5rem;
+      padding: clamp(1.2rem, 2.4vw, 1.8rem);
       background: rgba(215,180,106,.1);
+      font-size: clamp(1rem, 1.35vw, 1.18rem);
+      line-height: 1.55;
     }
     .kicker {
       margin-bottom: .75rem;
@@ -249,6 +254,11 @@
       .nav-actions { width: 100%; flex-wrap: wrap; }
       .button { width: 100%; }
       h1 { font-size: clamp(3rem, 19vw, 5.3rem); }
+      h2 {
+        max-width: 100%;
+        font-size: clamp(2.25rem, 10vw, 3.6rem);
+        line-height: 1.02;
+      }
       .download { flex-direction: column; }
       .download span { white-space: normal; }
     }
