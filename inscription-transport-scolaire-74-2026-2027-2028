@@ -96,7 +96,7 @@
       padding: clamp(5rem, 10vw, 8rem) clamp(1rem, 5vw, 4rem) clamp(3rem, 8vw, 6rem);
       background:
         linear-gradient(180deg, rgba(5,5,5,.45), rgba(5,5,5,.92)),
-        url("https://taxidumole.com/wp-content/uploads/2025/10/ChatGPT_Image_16_juil._2025_13_12_45.png") center/cover;
+        url("https://res.cloudinary.com/do6qoswp/image/upload/v1784393253/Logo_Taxi_du_M%C3%B4le_Sans_arri%C3%A8re_fond_bed4el.png") center/cover;
     }
     .hero-inner {
       max-width: 1180px;

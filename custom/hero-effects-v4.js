@@ -1,6 +1,6 @@
 (() => {
   const logoUrl =
-    "https://taxidumole.com/wp-content/uploads/2025/10/Logo-Mascote-Taxi-du-Mole-Image-8-oct.-2025-a-15_52_01.png";
+    "https://res.cloudinary.com/do6qoswp/image/upload/v1784393253/Logo_Taxi_du_M%C3%B4le_Sans_arri%C3%A8re_fond_bed4el.png";
   const gold = "#ffb600";
 
   const setupHeroLogo = (hero) => {
@@ -10,7 +10,7 @@
     const logo = document.createElement("img");
     logo.className = "hero-brand-logo";
     logo.src = logoUrl;
-    logo.alt = "Logo mascotte Taxi Mdph 74";
+    logo.alt = "Logo Taxi Mdph 74";
     logo.decoding = "async";
     logo.loading = "eager";
     content.prepend(logo);

@@ -13,11 +13,11 @@
   <meta property="og:title" content="Taxi bientôt conventionné à Bonneville">
   <meta property="og:description" content="Réservez un taxi pour vos trajets médicaux à Bonneville : rendez-vous hospitaliers, cliniques, spécialistes et consultations. Conventionnement CPAM à venir.">
   <meta property="og:url" content="https://taximdph74.com/taxi-conventionne-bonneville">
-  <meta property="og:image" content="https://taxidumole.com/wp-content/uploads/2025/10/ChatGPT_Image_16_juil._2025_13_12_45.png">
+  <meta property="og:image" content="https://res.cloudinary.com/do6qoswp/image/upload/v1784393253/Logo_Taxi_du_M%C3%B4le_Sans_arri%C3%A8re_fond_bed4el.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Taxi bientôt conventionné à Bonneville">
   <meta name="twitter:description" content="Trajets médicaux à Bonneville, ponctuels et sécurisés. Conventionnement CPAM à venir.">
-  <meta name="twitter:image" content="https://taxidumole.com/wp-content/uploads/2025/10/ChatGPT_Image_16_juil._2025_13_12_45.png">
+  <meta name="twitter:image" content="https://res.cloudinary.com/do6qoswp/image/upload/v1784393253/Logo_Taxi_du_M%C3%B4le_Sans_arri%C3%A8re_fond_bed4el.png">
   <meta name="theme-color" content="#050505">
   <link rel="icon" href="/favicon.ico" sizes="32x32">
   <link rel="icon" href="/favicon-32x32.png" type="image/png">
@@ -141,7 +141,7 @@
       inset: 0;
       background:
         linear-gradient(90deg, rgba(5, 5, 5, .92) 0%, rgba(5, 5, 5, .74) 44%, rgba(5, 5, 5, .52) 100%),
-        url("https://taxidumole.com/wp-content/uploads/2025/10/ChatGPT_Image_16_juil._2025_13_12_45.png") center / cover;
+        url("https://res.cloudinary.com/do6qoswp/image/upload/v1784393253/Logo_Taxi_du_M%C3%B4le_Sans_arri%C3%A8re_fond_bed4el.png") center / cover;
       opacity: .92;
     }
 
